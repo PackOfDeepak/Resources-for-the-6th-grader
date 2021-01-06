@@ -85,3 +85,8 @@ body {
     top:420px;
     left:1000px;
 }
+#art {
+    position: absolute;
+    top:620px;
+    left:500px;
+}
